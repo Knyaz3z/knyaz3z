@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on e-commerce marketplace<br>👯 I’m looking to collaborate different businesses<br>🤝 I’m looking for help with e-commerce online store, web blog, dashboards, custom CRM system and other<br>🌱 I’m currently learning Zustand and Djano<br>💬 Ask me about anything!<br>⚡ Fun fact I like to play videogames
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@knyaz3z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxim-finageev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knyaz010official@gmail.com) 
 
